@@ -1,5 +1,5 @@
 title: Run student run
-description: A 2D platform game
-show_downloads: false
+description: A 2D mobile platform game.
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
