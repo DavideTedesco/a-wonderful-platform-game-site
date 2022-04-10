@@ -9,7 +9,7 @@ $blockquote-border: $dove-grey !default;
 $container-max-width: 1000px;
 
 @mixin media-max-width($max-width) {
-  @media (max-width: $max-width) {
+  @media (max-width: $majekyll-theme-hackerx-width) {
       @content;
   }
 }
@@ -78,7 +78,7 @@ header h1 {
 
 
 header h1:before {
-  content: "./ ";
+  content: "🎮 ";
   font-size: 24px;
 }
 
