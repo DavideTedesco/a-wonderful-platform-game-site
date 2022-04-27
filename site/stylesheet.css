@@ -1,23 +1,26 @@
 @font-face {
     font-family: "PixelGrunge";
     src: url("PixelGrunge.ttf");
+    src: url("Pixelmania.ttf");
+    font-family: "Pixelmania";
+
     }
 
 body{
   background-color: black;
-  font-family:"PixelGrunge";
 }
 
 h1{
   color: lightgreen;
   text-align: center;
   font-size: 45px;
+  font-family:"Pixelmania";
+
 }
 
 h2{
   border: 5px;
   margin-left: 15px;
-  font-family:"PixelGrunge";
 }
 
 p{
