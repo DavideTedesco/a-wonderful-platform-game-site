@@ -1,21 +1,22 @@
 @font-face {
-    font-family: "PixelGrunge";
     src: url("PixelGrunge.ttf");
     src: url("Pixelmania.ttf");
+    src: url("Pixellari.ttf");
+    font-family: "PixelGrunge";
     font-family: "Pixelmania";
-
+    font-family: "Pixellari";
     }
 
 body{
   background-color: black;
+  font-family:"Pixellari";
+
 }
 
 h1{
   color: lightgreen;
   text-align: center;
   font-size: 45px;
-  font-family:"Pixelmania";
-
 }
 
 h2{
@@ -34,6 +35,9 @@ img{
   border-radius: 50%;
 }
 
+.first-image-container{
+  border-radius: 50%;
+}
 
 .imageContainer{
   flex-grow: 1;
