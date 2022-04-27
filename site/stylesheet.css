@@ -1,15 +1,15 @@
 @font-face {
     font-family: "PixelGrunge";
-    src: url("https://github.com/DavideTedesco/a-wonderful-platform-game-site/blob/main/site/PixelGrunge.ttf");
+    src: url("PixelGrunge.ttf");
     }
 
 body{
   background-color: black;
+  font-family:"PixelGrunge";
 }
 
 h1{
   color: lightgreen;
-  font-family:"pixelmania";
   text-align: center;
   font-size: 45px;
 }
@@ -17,7 +17,7 @@ h1{
 h2{
   border: 5px;
   margin-left: 15px;
-  font-family: "pixelmania";
+  font-family:"PixelGrunge";
 }
 
 p{
