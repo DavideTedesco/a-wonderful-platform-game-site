@@ -1,6 +1,6 @@
 @font-face {
     font-family: "PixelGrunge";
-    src: url("https://github.com/DavideTedesco/a-wonderful-platform-game-site/blob/main/Pixelmania.ttf");
+    src: url("https://github.com/DavideTedesco/a-wonderful-platform-game-site/blob/main/site/PixelGrunge.ttf");
     }
 
 body{
@@ -9,7 +9,7 @@ body{
 
 h1{
   color: lightgreen;
-  font-family:"PixelGrunge";
+  font-family:"pixelmania";
   text-align: center;
   font-size: 45px;
 }
