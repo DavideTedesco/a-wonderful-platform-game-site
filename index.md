@@ -1,21 +1,3 @@
----
-layout: default
+What a _**joke**_, this is not the real website...
 
----
-# Overview
-
-![game_screen.jpeg](game_screen.jpeg)
-
-## Levels
-
-### First year
-
-### Second year
-
-### Third year
-
-# Authors
-
-- Davide Latini
-- Kevin Santodonato
-- Davide Tedesco
+The real website is (this one)[https://davidetedesco.github.io/a-wonderful-platform-game-site/site/] instead.
